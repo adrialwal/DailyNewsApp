@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DailyNewsApp</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="filter_title">Filter</string>
+    <string name="thumbnail_description">Article thumbnail</string>
+    <string name="empty_view">No Articles Found</string>
+    <string name="no_internet">No Internet Connection, Please Connect to Internet</string>
+
+    <!-- Label for keyword option-->
+    <string name="settings_keyword_label">Text search</string>
+    <string name="settings_keyword_value">keyword</string>
+    <string name="settings_keyword_default">San Diego</string>
+
+    <!-- Label for order-by relevance option-->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value">relevance</string>
+
+    <!-- Label for order-by newest option-->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value">oldest</string>
+
+    <!-- Label for order-by newest option-->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value">newest</string>
+
+    <!-- Strings For Order-By Preference-->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key">order_by</string>
+    <string name="settings_order_by_default">relevance</string>
+
+</resources>
